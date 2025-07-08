@@ -6,6 +6,7 @@ import Logo from './Logo/Logo';
 import Menu from './Menu/Menu';
 import Footer from './Footer/Footer';
 import Main from './Main/Main';
+import menuitems from './menu.json';
 
 const Layout = () => {
     return (
@@ -16,9 +17,9 @@ const Layout = () => {
                 </div>
             </header>
             <main className={`${s.main} ${s.container}`}>
-                <Logo className={s.logo} />
+                <Logo className={s.logos} />
                 <Search className={s.search} />
-                <Menu className={s.menu} />
+                <Menu className={s.menu} items={menuitems} />
                 <Main />
             </main>
             <footer className={s.footer}>

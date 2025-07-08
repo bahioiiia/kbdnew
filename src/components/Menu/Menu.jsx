@@ -1,13 +1,18 @@
-const Menu = () => {
+import React from 'react';
+import './Menu.module.css';
+import MenuItem from './menuItem';
+
+const Menu = ({items}) => {
   return (
     <nav className="menu">
       <ul>
-        <li>Keyboard</li>
-        <li>Fan</li>
-        <li>Screen</li>
+        {items.map(item => (
+          <MenuItem key={item.id} {...item} />
+        ))}
       </ul>
     </nav>
   );
 };
 
 export default Menu;
+

@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "category": "Keyboard",
+      "qty": 123123,
+      "submenu": true,
+      "icon": "/react.svg"
+    },
+    {
+      "id": 2,
+      "category": "Mouse",
+      "qty": 456456,
+      "submenu": true,
+      "icon": "/react.svg"
+    },
+    {
+      "id": 3,
+      "category": "Monitor",
+      "qty": 78989,
+      "submenu": true,
+      "icon": "/react.svg"
+    },
+    {
+      "id": 4,
+      "category": "Audio",
+      "qty": 32121,
+      "submenu": true,
+      "icon": "/react.svg"
+    },
+    {
+      "id": 5,
+      "category": "Software",
+      "qty": 4654,
+      "submenu": true,
+      "icon": "/react.svg"
+    },
+    {
+      "id": 6,
+      "category": "Accessories",
+      "qty": 0,
+      "submenu": false,
+      "icon": "/react.svg"
+    }
+
+  ]

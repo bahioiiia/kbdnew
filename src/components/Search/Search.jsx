@@ -10,7 +10,7 @@ const Search = () => {
                 <label htmlFor="searchId">Search...</label>
             </div>
         <button type="submit" className="searchButton">
-            Count is
+            Search
         </button>
         </form>
         </section>
