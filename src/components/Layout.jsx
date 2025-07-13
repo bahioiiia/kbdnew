@@ -20,7 +20,12 @@ const Layout = () => {
                 <Logo className={s.logos} />
                 <Search className={s.search} />
                 <Menu className={s.menu} items={menuitems} />
-                <Main />
+                <Main
+                    className={s.mainContent}
+                    title="Main Content"
+                >
+                    <p>This is the main content area.</p>
+                </Main>
             </main>
             <footer className={s.footer}>
                 <div className={s.container}>
