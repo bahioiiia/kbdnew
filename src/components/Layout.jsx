@@ -1,5 +1,5 @@
 import React from 'react';
-import s from './layout.module.css';
+import s from './Layout.module.css';
 import Header from './Header/Header';
 import Search from './Search/Search';   
 import Logo from './Logo/Logo';
