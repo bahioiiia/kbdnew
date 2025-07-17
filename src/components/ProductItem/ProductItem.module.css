@@ -19,7 +19,8 @@
 
 .productSpecs {
     grid-area: specs;
-  flex: 1;
+    font-size: 0.75rem;
+  /* flex: 1; */
 }
 
 .productName {
