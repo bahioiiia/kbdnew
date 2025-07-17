@@ -5,10 +5,10 @@
 
 .menuCheckBoxes legend {
     font-weight: bold;
-    margin-bottom: 0.5rem;
+    /* margin-bottom: 0.5rem; */
 }
 
 .menuCheckBoxes label {
     display: block;
-    margin: 0.25rem 0;
+    /* margin: 0.25rem 0; */
 }

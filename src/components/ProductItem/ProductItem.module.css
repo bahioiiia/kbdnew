@@ -14,8 +14,7 @@
 
 .productImage {
     grid-area: image;
-  width: 100px;
-  height: 100px;
+  width: 225px;
 }
 
 .productSpecs {
