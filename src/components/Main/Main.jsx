@@ -1,10 +1,10 @@
 import React from 'react';
-import './Main.module.css';
+import s from './Main.module.css';
 
 const Main = ({ children, title = 'Main Content' }) => {
   console.log('Main component rendered with title:', children, title);
   return (
-    <section className="content">
+    <section className={s.content}>
       <h1>{title}</h1>
       {children}
     </section>

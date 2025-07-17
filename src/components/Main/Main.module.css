@@ -1,0 +1,6 @@
+.content {
+  grid-area: main;
+  background-color: rgba(77, 88, 56, 0.5);
+  flex: 1;
+  overflow: auto;
+}

@@ -1,9 +1,9 @@
 import React from 'react';
-import './Logo.module.css';
+import s from './Logo.module.css';
 
 const Logo = () => {
   return (
-    <div className="logo">
+    <div className={s.logo}>
       <img src="/keyboardLogo.svg" alt="Keyboard Logo" />
     </div>
   );

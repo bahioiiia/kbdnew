@@ -1,0 +1,6 @@
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(100, 150, 200, 0.5);
+}
