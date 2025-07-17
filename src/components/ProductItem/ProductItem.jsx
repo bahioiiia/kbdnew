@@ -22,10 +22,8 @@ const ProductItem = ({ name, picture, price, specs, qty }) => {
             </div>
             <div className={s.productDetails}>
                 <div className={s.productPrice}>
-                    <span className="price-discounted">{price.discounted}</span>
-                    {price.discounted !== price.original && (
-                      <span className="price-original">{price.original}</span>
-                    )}
+                    <span className={s.priceOriginal}>{price.original}</span>
+                    <span className={s.priceDiscounted}>{price.discounted}</span>
                 </div>
                 <button className={s.btnBuy}>Додати до кошика</button>
             </div>

@@ -40,19 +40,21 @@
 
 .productPrice {
     grid-area: price;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    font-weight: bold;
   font-size: 1.1rem;
   margin-top: 4px;
 }
-.price-discounted {
-  color: #d9534f;
-  font-weight: bold;
+.priceDiscounted {
+  color: #5cb85c;
 }
-.price-original {
+.priceOriginal {
   color: #999;
   text-decoration: line-through;
 }
 .btnBuy {
-
   background-color: #5cb85c;
   color: white;
   border: none;
