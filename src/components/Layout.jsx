@@ -1,12 +1,17 @@
 import React from 'react';
+
 import s from './Layout.module.css';
+
 import Header from './Header/Header';
 import Search from './Search/Search';   
 import Logo from './Logo/Logo';
 import Menu from './Menu/Menu';
 import Footer from './Footer/Footer';
 import Main from './Main/Main';
+import ProductList from './ProductList/ProductList';
+
 import menuitems from './menu.json';
+import products from './products.json';
 
 const Layout = () => {
     return (
@@ -25,6 +30,7 @@ const Layout = () => {
                     title="Main Content"
                 >
                     <p>This is the main content area.</p>
+                    <ProductList products={products} />
                 </Main>
             </main>
             <footer className={s.footer}>

@@ -1,0 +1,128 @@
+[
+    {
+      "name": "LCD матриця для ноутбука Lenovo IdeaPad 320",
+      "qty": 7,
+      "picture": "/images/lenovo_ideapad_320.jpg",
+      "price": {
+        "original": "1149.00₴",
+        "discounted": "1032.00₴"
+      },
+      "specs": {
+        "model": "B140XTN03.3",
+        "manufacturer": "AU Optronics",
+        "size": "14.0\"",
+        "form_factor": "Slim",
+        "interface": "30 pins eDP",
+        "resolution": "1366 x 768",
+        "surface_type": "Глянцева",
+        "backlight": "LED",
+        "mounting_type": "Зверху, знизу",
+        "panel_type": "TN",
+        "brightness": "220 cd/m2",
+        "viewing_angles": "45/45/20/45",
+        "refresh_rate": "60Hz",
+        "condition": "Новий"
+      }
+    },
+    {
+      "name": "LCD матриця для ноутбука HP ProBook 450 G5",
+      "qty": 4,
+      "picture": "/images/hp_probook_450_g5.jpg",
+      "price": {
+        "original": "1225.00₴",
+        "discounted": "1150.00₴"
+      },
+      "specs": {
+        "model": "N156BGA-EA3",
+        "manufacturer": "Innolux",
+        "size": "15.6\"",
+        "form_factor": "Slim",
+        "interface": "30 pins eDP",
+        "resolution": "1366 x 768",
+        "surface_type": "Матова",
+        "backlight": "LED",
+        "mounting_type": "Зверху, знизу",
+        "panel_type": "TN",
+        "brightness": "200 cd/m2",
+        "viewing_angles": "45/45/20/45",
+        "refresh_rate": "60Hz",
+        "condition": "Новий"
+      }
+    },
+    {
+      "name": "LCD матриця для ноутбука Acer Aspire ES1-531",
+      "qty": 2,
+      "picture": "/images/acer_aspire_es1_531.jpg",
+      "price": {
+        "original": "1095.00₴",
+        "discounted": "987.00₴"
+      },
+      "specs": {
+        "model": "LP156WHB-TPA1",
+        "manufacturer": "LG Display",
+        "size": "15.6\"",
+        "form_factor": "Normal",
+        "interface": "40 pins LVDS",
+        "resolution": "1366 x 768",
+        "surface_type": "Глянцева",
+        "backlight": "LED",
+        "mounting_type": "Зверху",
+        "panel_type": "TN",
+        "brightness": "200 cd/m2",
+        "viewing_angles": "45/45/20/45",
+        "refresh_rate": "60Hz",
+        "condition": "Уживаний товар"
+      }
+    },
+    {
+      "name": "LCD матриця для ноутбука ASUS X551",
+      "qty": 5,
+      "picture": "/images/asus_x551.jpg",
+      "price": {
+        "original": "1167.00₴",
+        "discounted": "1075.00₴"
+      },
+      "specs": {
+        "model": "B156XTN04.2",
+        "manufacturer": "AU Optronics",
+        "size": "15.6\"",
+        "form_factor": "Slim",
+        "interface": "30 pins eDP",
+        "resolution": "1366 x 768",
+        "surface_type": "Матова",
+        "backlight": "LED",
+        "mounting_type": "Зверху, знизу",
+        "panel_type": "TN",
+        "brightness": "220 cd/m2",
+        "viewing_angles": "45/45/20/45",
+        "refresh_rate": "60Hz",
+        "condition": "Новий"
+      }
+    },
+    {
+      "name": "LCD матриця для ноутбука Dell Inspiron 15 3567",
+      "qty": 6,
+      "picture": "/images/dell_inspiron_3567.jpg",
+      "price": {
+        "original": "1024.00₴",
+        "discounted": "949.00₴"
+      },
+      "specs": {
+        "model": "N156BGE-L11",
+        "manufacturer": "Chimei Innolux",
+        "size": "15.6\"",
+        "form_factor": "Normal",
+        "interface": "40 pins LVDS",
+        "resolution": "1366 x 768",
+        "surface_type": "Глянцева",
+        "backlight": "LED",
+        "mounting_type": "Зверху",
+        "panel_type": "TN",
+        "brightness": "200 cd/m2",
+        "viewing_angles": "45/45/20/45",
+        "refresh_rate": "60Hz",
+        "condition": "Зі слідами використання"
+      }
+    }
+  ]
+  
