@@ -4,7 +4,7 @@ import s from './ProductItem.module.css';
 const ProductItem = ({ name, picture, price, specs, qty }) => {
     return (
         <div className={s.productItem}>
-             <img src={picture} alt={name} className={s.productImage} />
+            <img src={picture} alt={name} className={s.productImage} />
             <h2 className={s.productName}>{name}</h2>
             <ul className={s.productSpecs}>
                 <li><strong>Модель:</strong> {specs.model}</li>

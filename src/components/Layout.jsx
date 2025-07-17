@@ -24,7 +24,7 @@ const Layout = () => {
             <main className={`${s.main} ${s.container}`}>
                 <Logo className={s.logos} />
                 <Search className={s.search} />
-                <Menu className={s.menu} items={menuitems} />
+                <Menu className={s.menu} items={menuitems} products={products} />
                 <Main
                     className={s.mainContent}
                     title="Main Content"

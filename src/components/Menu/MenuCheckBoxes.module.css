@@ -1,0 +1,14 @@
+.menuCheckBoxes {
+    display: flex;
+    flex-direction: column;
+}
+
+.menuCheckBoxes legend {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.menuCheckBoxes label {
+    display: block;
+    margin: 0.25rem 0;
+}
